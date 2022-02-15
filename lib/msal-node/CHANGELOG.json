@@ -2,6 +2,29 @@
   "name": "@azure/msal-node",
   "entries": [
     {
+      "date": "Tue, 15 Feb 2022 18:23:41 GMT",
+      "tag": "@azure/msal-node_v1.7.0",
+      "version": "1.7.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "marionminayo@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "51946eef5cd502f1edee4e37439396671496b31e",
+            "comment": "Added nonce support to MSAL Node #4504"
+          }
+        ],
+        "none": [
+          {
+            "author": "janutter@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "d4353b05a90998a47f9f3feaef9b2ee5e88b3875",
+            "comment": "Update axios to address follow-redirects alert #4517"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 08 Feb 2022 00:41:06 GMT",
       "tag": "@azure/msal-node_v1.6.0",
       "version": "1.6.0",
